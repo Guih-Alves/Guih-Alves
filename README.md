@@ -2,7 +2,7 @@
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🔧 Focado em Backend  
-📚 Atualmente estudando TypeScript, Java, MySQL, AWS e Segurança de dados 
+📚 Atualmente estudando TypeScript, Java, MySQL, AWS e Segurança de dados  
 🎯 Meu objetivo é iniciar minha carreira como Desenvolvedor Backend  
 
 

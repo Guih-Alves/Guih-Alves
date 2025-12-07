@@ -1,4 +1,4 @@
-##👋 Olá! Eu sou o Guilherme Alves
+## 👋 Olá! Eu sou o Guilherme Alves
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
 🔧 Focado em Backend
@@ -7,7 +7,7 @@
 
 
 
-##🚀 Sobre mim
+## 🚀 Sobre mim
 
 Gosto de construir APIs e entender como funcionam por dentro.
 Estou sempre buscando melhorar minha lógica de programação.

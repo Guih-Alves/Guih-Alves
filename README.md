@@ -1,17 +1,17 @@
 ## 👋 Olá! Eu sou o Guilherme Alves
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas
-🔧 Focado em Backend
-📚 Atualmente estudando TypeScript, Java, MySQL e AWS
-🎯 Meu objetivo é iniciar minha carreira como Desenvolvedor Backend
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🔧 Focado em Backend  
+📚 Atualmente estudando TypeScript, Java, MySQL e AWS  
+🎯 Meu objetivo é iniciar minha carreira como Desenvolvedor Backend  
 
 
 
 ## 🚀 Sobre mim
 
-Gosto de construir APIs e entender como funcionam por dentro.
-Estou sempre buscando melhorar minha lógica de programação.
-Tenho interesse em DevOps e futuramente DevSecOps
+Gosto de construir APIs e entender como funcionam por dentro.  
+Estou sempre buscando melhorar minha lógica de programação.  
+Tenho interesse em DevOps e futuramente DevSecOps  
 
 ## 🧰 Tecnologias que estou usando/estudando
 

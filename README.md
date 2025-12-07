@@ -13,7 +13,7 @@ Gosto de construir APIs e entender como funcionam por dentro.
 Estou sempre buscando melhorar minha lógica de programação.  
 Tenho interesse em DevOps e futuramente DevSecOps  
 
-## 🧰 Tecnologias que estou usando/estudando
+## 🧰 Tecnologias que estou estudando e usando
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)

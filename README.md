@@ -2,7 +2,7 @@
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🔧 Focado em Backend  
-📚 Atualmente estudando TypeScript, Java, MySQL, AWS e Segurança de dados  
+📚 Atualmente estudando TypeScript, Java, MySQL e AWS 
 🎯 Meu objetivo é iniciar minha carreira como Desenvolvedor Backend  
 
 
@@ -24,7 +24,6 @@ Tenho interesse em DevOps e futuramente DevSecOps
 ![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-3387FF?logo=security&logoColor=white&style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 

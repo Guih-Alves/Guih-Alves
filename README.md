@@ -1,8 +1,11 @@
 ## 👋 Olá! Eu sou o Guilherme Alves
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
+
 🔧 Focado em Backend  
-📚 Atualmente estudando TypeScript, Java, MySQL e AWS 
+
+📚 Atualmente estudando TypeScript, Java, MySQL e AWS
+
 🎯 Meu objetivo é iniciar minha carreira como Desenvolvedor Backend  
 
 
@@ -21,7 +24,6 @@ Tenho interesse em DevOps e futuramente DevSecOps
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
-![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-3387FF?logo=security&logoColor=white&style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
